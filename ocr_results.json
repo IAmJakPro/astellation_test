@@ -1,0 +1,759 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "status": "succeeded",
+        "createdDateTime": "2022-03-16T16:19:29Z",
+        "lastUpdatedDateTime": "2022-03-16T16:19:29Z",
+        "analyzeResult": {
+            "version": "3.2.0",
+            "modelVersion": "2021-04-12",
+            "readResults": [
+                {
+                    "page": 1,
+                    "angle": -17.1127,
+                    "width": 657,
+                    "height": 445,
+                    "unit": "pixel",
+                    "lines": [
+                        {
+                            "boundingBox": [
+                                52,
+                                134,
+                                253,
+                                87,
+                                258,
+                                107,
+                                56,
+                                154
+                            ],
+                            "text": "Dr. Avery Smith",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        52,
+                                        135,
+                                        90,
+                                        126,
+                                        95,
+                                        146,
+                                        57,
+                                        154
+                                    ],
+                                    "text": "Dr.",
+                                    "confidence": 0.994
+                                },
+                                {
+                                    "boundingBox": [
+                                        94,
+                                        125,
+                                        169,
+                                        107,
+                                        173,
+                                        128,
+                                        98,
+                                        145
+                                    ],
+                                    "text": "Avery",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        178,
+                                        105,
+                                        246,
+                                        89,
+                                        250,
+                                        109,
+                                        182,
+                                        126
+                                    ],
+                                    "text": "Smith",
+                                    "confidence": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                57,
+                                160,
+                                204,
+                                124,
+                                208,
+                                138,
+                                59,
+                                175
+                            ],
+                            "text": "Senior Researcher",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        58,
+                                        161,
+                                        109,
+                                        149,
+                                        112,
+                                        162,
+                                        60,
+                                        174
+                                    ],
+                                    "text": "Senior",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        112,
+                                        148,
+                                        202,
+                                        125,
+                                        205,
+                                        140,
+                                        115,
+                                        161
+                                    ],
+                                    "text": "Researcher",
+                                    "confidence": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                60,
+                                176,
+                                248,
+                                130,
+                                252,
+                                145,
+                                64,
+                                191
+                            ],
+                            "text": "Cloud & Al Department",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        61,
+                                        176,
+                                        107,
+                                        166,
+                                        110,
+                                        181,
+                                        64,
+                                        192
+                                    ],
+                                    "text": "Cloud",
+                                    "confidence": 0.995
+                                },
+                                {
+                                    "boundingBox": [
+                                        113,
+                                        164,
+                                        122,
+                                        162,
+                                        125,
+                                        177,
+                                        116,
+                                        179
+                                    ],
+                                    "text": "&",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        131,
+                                        160,
+                                        149,
+                                        156,
+                                        153,
+                                        170,
+                                        134,
+                                        175
+                                    ],
+                                    "text": "Al",
+                                    "confidence": 0.869
+                                },
+                                {
+                                    "boundingBox": [
+                                        152,
+                                        155,
+                                        249,
+                                        131,
+                                        252,
+                                        145,
+                                        156,
+                                        169
+                                    ],
+                                    "text": "Department",
+                                    "confidence": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                334,
+                                97,
+                                475,
+                                57,
+                                478,
+                                67,
+                                336,
+                                107
+                            ],
+                            "text": "avery.smith@contoso.com",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        336,
+                                        97,
+                                        470,
+                                        59,
+                                        473,
+                                        70,
+                                        338,
+                                        107
+                                    ],
+                                    "text": "avery.smith@contoso.com",
+                                    "confidence": 0.98
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                338,
+                                109,
+                                485,
+                                68,
+                                488,
+                                79,
+                                340,
+                                121
+                            ],
+                            "text": "https://www.contoso.com/",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        339,
+                                        109,
+                                        485,
+                                        68,
+                                        488,
+                                        79,
+                                        342,
+                                        121
+                                    ],
+                                    "text": "https://www.contoso.com/",
+                                    "confidence": 0.89
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                358,
+                                125,
+                                499,
+                                81,
+                                503,
+                                93,
+                                362,
+                                136
+                            ],
+                            "text": "mob: +44 (0) 7911 123456",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        359,
+                                        126,
+                                        389,
+                                        116,
+                                        392,
+                                        128,
+                                        362,
+                                        136
+                                    ],
+                                    "text": "mob:",
+                                    "confidence": 0.994
+                                },
+                                {
+                                    "boundingBox": [
+                                        391,
+                                        116,
+                                        410,
+                                        110,
+                                        413,
+                                        122,
+                                        394,
+                                        127
+                                    ],
+                                    "text": "+44",
+                                    "confidence": 0.997
+                                },
+                                {
+                                    "boundingBox": [
+                                        413,
+                                        109,
+                                        430,
+                                        103,
+                                        432,
+                                        116,
+                                        416,
+                                        121
+                                    ],
+                                    "text": "(0)",
+                                    "confidence": 0.96
+                                },
+                                {
+                                    "boundingBox": [
+                                        432,
+                                        103,
+                                        457,
+                                        95,
+                                        460,
+                                        107,
+                                        434,
+                                        115
+                                    ],
+                                    "text": "7911",
+                                    "confidence": 0.994
+                                },
+                                {
+                                    "boundingBox": [
+                                        460,
+                                        94,
+                                        497,
+                                        82,
+                                        499,
+                                        94,
+                                        462,
+                                        106
+                                    ],
+                                    "text": "123456",
+                                    "confidence": 0.995
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                375,
+                                135,
+                                508,
+                                93,
+                                512,
+                                106,
+                                378,
+                                147
+                            ],
+                            "text": "tel: +44 (0) 20 9876 5432",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        376,
+                                        136,
+                                        394,
+                                        130,
+                                        397,
+                                        141,
+                                        379,
+                                        147
+                                    ],
+                                    "text": "tel:",
+                                    "confidence": 0.988
+                                },
+                                {
+                                    "boundingBox": [
+                                        396,
+                                        129,
+                                        417,
+                                        123,
+                                        420,
+                                        135,
+                                        399,
+                                        141
+                                    ],
+                                    "text": "+44",
+                                    "confidence": 0.998
+                                },
+                                {
+                                    "boundingBox": [
+                                        419,
+                                        122,
+                                        435,
+                                        117,
+                                        439,
+                                        129,
+                                        422,
+                                        134
+                                    ],
+                                    "text": "(0)",
+                                    "confidence": 0.997
+                                },
+                                {
+                                    "boundingBox": [
+                                        438,
+                                        116,
+                                        450,
+                                        112,
+                                        454,
+                                        124,
+                                        441,
+                                        128
+                                    ],
+                                    "text": "20",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        453,
+                                        111,
+                                        479,
+                                        103,
+                                        483,
+                                        116,
+                                        456,
+                                        124
+                                    ],
+                                    "text": "9876",
+                                    "confidence": 0.982
+                                },
+                                {
+                                    "boundingBox": [
+                                        482,
+                                        102,
+                                        508,
+                                        94,
+                                        511,
+                                        107,
+                                        485,
+                                        115
+                                    ],
+                                    "text": "5432",
+                                    "confidence": 0.991
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                380,
+                                149,
+                                520,
+                                105,
+                                524,
+                                118,
+                                384,
+                                162
+                            ],
+                            "text": "fax: +44 (0) 20 6789 2345",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        380,
+                                        149,
+                                        404,
+                                        142,
+                                        407,
+                                        155,
+                                        384,
+                                        161
+                                    ],
+                                    "text": "fax:",
+                                    "confidence": 0.986
+                                },
+                                {
+                                    "boundingBox": [
+                                        406,
+                                        141,
+                                        426,
+                                        135,
+                                        430,
+                                        148,
+                                        409,
+                                        154
+                                    ],
+                                    "text": "+44",
+                                    "confidence": 0.999
+                                },
+                                {
+                                    "boundingBox": [
+                                        428,
+                                        134,
+                                        445,
+                                        129,
+                                        448,
+                                        142,
+                                        432,
+                                        147
+                                    ],
+                                    "text": "(0)",
+                                    "confidence": 0.998
+                                },
+                                {
+                                    "boundingBox": [
+                                        447,
+                                        129,
+                                        460,
+                                        124,
+                                        464,
+                                        137,
+                                        451,
+                                        141
+                                    ],
+                                    "text": "20",
+                                    "confidence": 0.999
+                                },
+                                {
+                                    "boundingBox": [
+                                        463,
+                                        124,
+                                        490,
+                                        115,
+                                        493,
+                                        128,
+                                        466,
+                                        137
+                                    ],
+                                    "text": "6789",
+                                    "confidence": 0.986
+                                },
+                                {
+                                    "boundingBox": [
+                                        492,
+                                        114,
+                                        518,
+                                        106,
+                                        522,
+                                        118,
+                                        496,
+                                        127
+                                    ],
+                                    "text": "2345",
+                                    "confidence": 0.993
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                173,
+                                264,
+                                369,
+                                204,
+                                378,
+                                232,
+                                181,
+                                293
+                            ],
+                            "text": "Contoso",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        174,
+                                        264,
+                                        357,
+                                        207,
+                                        366,
+                                        235,
+                                        181,
+                                        293
+                                    ],
+                                    "text": "Contoso",
+                                    "confidence": 0.996
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                188,
+                                300,
+                                323,
+                                254,
+                                329,
+                                269,
+                                193,
+                                316
+                            ],
+                            "text": "2 Kingdom Street",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        189,
+                                        299,
+                                        197,
+                                        297,
+                                        202,
+                                        314,
+                                        194,
+                                        317
+                                    ],
+                                    "text": "2",
+                                    "confidence": 0.997
+                                },
+                                {
+                                    "boundingBox": [
+                                        200,
+                                        296,
+                                        267,
+                                        274,
+                                        272,
+                                        290,
+                                        205,
+                                        313
+                                    ],
+                                    "text": "Kingdom",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        275,
+                                        271,
+                                        324,
+                                        255,
+                                        329,
+                                        269,
+                                        280,
+                                        287
+                                    ],
+                                    "text": "Street",
+                                    "confidence": 0.994
+                                }
+                            ]
+                        },
+                        {
+                            "boundingBox": [
+                                196,
+                                320,
+                                414,
+                                243,
+                                420,
+                                259,
+                                201,
+                                337
+                            ],
+                            "text": "Paddington, London, W2 6BD",
+                            "appearance": {
+                                "style": {
+                                    "name": "other",
+                                    "confidence": 0.878
+                                }
+                            },
+                            "words": [
+                                {
+                                    "boundingBox": [
+                                        196,
+                                        320,
+                                        292,
+                                        287,
+                                        297,
+                                        304,
+                                        201,
+                                        337
+                                    ],
+                                    "text": "Paddington,",
+                                    "confidence": 0.994
+                                },
+                                {
+                                    "boundingBox": [
+                                        296,
+                                        286,
+                                        355,
+                                        265,
+                                        360,
+                                        281,
+                                        301,
+                                        303
+                                    ],
+                                    "text": "London,",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        358,
+                                        264,
+                                        382,
+                                        255,
+                                        387,
+                                        271,
+                                        364,
+                                        280
+                                    ],
+                                    "text": "W2",
+                                    "confidence": 0.996
+                                },
+                                {
+                                    "boundingBox": [
+                                        385,
+                                        254,
+                                        413,
+                                        244,
+                                        418,
+                                        259,
+                                        391,
+                                        270
+                                    ],
+                                    "text": "6BD",
+                                    "confidence": 0.994
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
